@@ -1,0 +1,100 @@
+.header {
+height: 70px;
+background-color: #fff
+}
+.header img {
+    height: 70px;
+    float: left
+    
+}
+
+.header button {
+    float: right;
+    margin: 15px 5px;
+    min-width: 100px;
+    background-color: #fff;
+    border: 1px solid #eee;
+}
+.header button:hover {
+    color: #fff;
+    background-color: #0098d0;
+    border: none
+}
+.control .addads {
+    margin: 7px  0;
+    color: #fff;
+    background-color: #ff8300;
+    
+}
+.control .addads a {
+width: 100%;
+text-decoration: none;
+color: #fff
+    
+}
+
+.control  .search {
+    height: 100px;
+    width: 100%;
+    background-color: #0098d0;
+    line-height: 100px
+}
+.control  .search .form-inline {
+    display: block;
+}
+.control .search .input {
+    width: 40%;
+    height: 50px;
+    margin:  0 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px
+}
+.control .search .clicksearch{
+    background-color: #fff;
+    color: #000;
+    margin-right: 55px ;
+    height: 40px;
+}
+.control .search .clicksearch:hover {
+    color: #fff;
+    background-color: #ff8300;
+}
+.control .search .select{
+    width: 40%;
+    height: 50px;
+    margin:  0 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px
+
+}
+
+
+
+
+
+ .ads .card{
+    padding: 1px;
+    margin: 10px 10px;
+
+} 
+.ads .card img{
+    height: 250px;
+
+} 
+.card span {
+    font-size: 13px
+}
+
+
+.comment   img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%
+}
+
+
+.overright {
+    background-color: rgba(0, 0, 0, 0.4)
+}
